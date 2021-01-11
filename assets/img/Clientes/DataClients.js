@@ -1,0 +1,17 @@
+export default DataClients =[
+    require("../Clientes/21463237_10154722014207161_7072020591603673041_n-e1585002293759.jpg"),
+    require("../Clientes/alamo.png"),
+    require("../Clientes/apymsa.png"),
+    require("../Clientes/bachoco.png"),
+    require("../Clientes/corona.png"),
+    require("../Clientes/DMT.png"),
+    require("../Clientes/El_Crisol-768x395.png"),
+    require("../Clientes/herdez.png"),
+    require("../Clientes/keken.png"),
+    require("../Clientes/Lodemo.png"),
+    require("../Clientes/Logo-grupo-ISA-300x300-1-e1584971238688.png"),
+    require("../Clientes/logo-merza-pequeno.png"),
+    require("../Clientes/LOGO-PETSTAR-768x252.png"),
+    require("../Clientes/nova.png"),
+    require("../Clientes/serviclimas.png"),
+]
